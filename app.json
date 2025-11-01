@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "tigrinho",
+    "slug": "tigrinho",
+    "schema": "tigrinho",
+    "version": "1.0.0",
+    "plugins": [
+      "expo-router",
+      "expo-font"
+    ]
+  }
+}
