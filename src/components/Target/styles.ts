@@ -11,12 +11,17 @@ export const styles = StyleSheet.create({
         paddingBottom: 16,
     },
     content:{
-
+        flex:1,
+        gap:7
     },
     name:{
-
+        fontSize:14,
+        color: colors.black,
+        fontFamily: fontFamily.medium
     },
     status:{
-
+        fontSize:10,
+        color: colors.gray[500],
+        fontFamily: fontFamily.regular
     }
 })
